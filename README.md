@@ -7,7 +7,7 @@ Fresher
 I'm a fresher currently learning React
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [shivansh.sk17@gmail.com](mailto:shivansh.sk17@gmail.com)
+* ✉️  You can contact me at [shivansh7623@gmail.com](mailto:shivansh7623@gmail.com)
 * 🧠  I'm learning React, JavaScript
 
 ### Skills
